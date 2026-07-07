@@ -1,0 +1,2 @@
+# INTELLIGENT-IOT-BASED-MULTI-PARAMETER-CARDIO-RESPIRATORY-AND-HEALTH-MONITORING-SYSTEM-
+The IoT-Integrated Remote Health Surveillance System monitors heart rate and SpO₂ using non-invasive sensors. Health data is uploaded to the cloud for real-time access via a web or mobile app.It detects abnormalities, sends instant alerts, estimates blood pressure and respiratory rate, detects stress score for remote patient monitoring.
